@@ -1,7 +1,8 @@
 <script lang="ts">
 
 import { defineComponent, ref } from 'vue';
-import { ActionList, Popover } from '@launchcore/focus-ui';
+import { ActionList } from '../../ActionList';
+import { Popover } from '../../Popover';
 
 export default defineComponent({
   components: { ActionList, Popover },
