@@ -1,5 +1,5 @@
 {
-  "name": "@launchcore/focus-ui",
+  "name": "@launchcomponent/focus-vue",
   "version": "1.0.0",
   "main": "src/index.ts"
 }
